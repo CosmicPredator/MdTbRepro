@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MdProto (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "MdProto (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
